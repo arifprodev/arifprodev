@@ -31,7 +31,7 @@ Here are the technologies I've worked with or am currently learning:
 
 ## 📈 GitHub Stats:
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=arifprodev&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📢 Let's Connect:
 
