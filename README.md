@@ -55,7 +55,7 @@ Here are some dynamic badges showing my current activity and the technologies I�
 ## 🌱 Projects I'm Working On:
 These are some of the projects I’ve worked on or am building to improve my skills:
 
-- **[My Portfolio](https://yourportfolio.com)** – A personal portfolio to showcase my work.
+- **[My Portfolio](https://arifprodev.vercel.app/)** – A personal portfolio to showcase my work.
 - **[React Weather App](https://github.com/arifprodev/weather-app)** – A weather app built with React and Tailwind CSS.
 - **[Next.js Blog](https://github.com/arifprodev/nextjs-blog)** – A blog built using Next.js with Markdown support and a static-site generation approach.
 
