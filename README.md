@@ -80,8 +80,6 @@ I'm a passionate full-stack developer specializing in modern web technologies. I
 | Project | Description | Technologies | Links |
 |---------|-------------|--------------|-------|
 | **Portfolio Website** | Modern, responsive portfolio showcasing my work and skills | Next.js, TypeScript, Tailwind CSS | [Live](https://arifprodev.vercel.app) • [Code](https://github.com/arifprodev/portfolio) |
-| **Weather Dashboard** | Real-time weather application with location-based forecasts | React, OpenWeather API, CSS3 | [Live](https://weather.arifprodev.vercel.app) • [Code](https://github.com/arifprodev/weather-app) |
-| **Blog Platform** | Full-featured blog with CMS integration and MDX support | Next.js, Sanity CMS, MDX | [Live](https://blog.arifprodev.vercel.app) • [Code](https://github.com/arifprodev/nextjs-blog) |
 
 </div>
 
@@ -128,22 +126,22 @@ graph LR
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arifprodev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifprodev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arifprodev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arifprodev.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arifprodev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifprodev@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Quote of the Day
+    
+### 💭 Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"First, solve the problem. Then, write the code."** – John Johnson
 
 ---
 
