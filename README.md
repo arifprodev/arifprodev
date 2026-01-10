@@ -56,14 +56,18 @@ I'm a passionate full-stack developer specializing in modern web technologies. I
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arifprodev)](https://git.io/arifprodev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifprodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats using GitHub Profile Summary Cards (Alternative 1 - Most Reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifprodev&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=arifprodev&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifprodev&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arifprodev&theme=tokyonight" alt="Productive Time" width="49%"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifprodev&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifprodev&theme=tokyonight" alt="Repos per Language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifprodev&theme=tokyonight" alt="Most Commit Language" width="49%"/>
+
+<!-- GitHub Streak (Alternative - Works well) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=arifprodev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
