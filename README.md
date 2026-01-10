@@ -57,7 +57,7 @@ I'm a passionate full-stack developer specializing in modern web technologies. I
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifprodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arifprodev)](https://git.io/arifprodev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifprodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
