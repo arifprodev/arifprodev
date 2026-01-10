@@ -1,132 +1,150 @@
-👋 Hello, I'm Arif Hossen
-I'm a passionate web developer currently learning TypeScript, Next.js, and Python while building my skills in React.js, Tailwind CSS, Express.js, and MongoDB. I'm always excited to learn new things and build projects that help me grow.
-
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=arifprodev&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true	https://github-readme-stats.vercel.app/api/top-langs/?username=arifprodev&layout=compact&theme=radical&hide_border=true
-https://streak-stats.demolab.com/?user=arifprodev&theme=radical&hide_border=true	https://github-readme-activity-graph.vercel.app/graph?username=arifprodev&theme=radical&area=true&hide_border=true
-🛠️ Technologies I'm Learning:
-I'm currently focused on the following technologies:
-
-Frontend:
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-
-Backend:
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-
-Tools & Services:
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-
-🚀 My Learning Journey:
-📖 I am currently learning TypeScript to enhance my JavaScript skills and make my code more reliable and maintainable.
-
-🌐 I'm diving into Next.js to build full-stack React applications with improved SEO and performance.
-
-🐍 Python is the next step in my journey, as I explore its versatility for both backend development and data science.
-
-🏆 GitHub Badges:
-https://img.shields.io/github/followers/arifprodev?label=Followers&style=for-the-badge
-https://img.shields.io/github/stars/arifprodev?style=for-the-badge&label=Total%2520Stars
-https://komarev.com/ghpvc/?username=arifprodev&style=for-the-badge&color=blue
-https://img.shields.io/github/last-commit/arifprodev/arifprodev?style=for-the-badge&label=Last%2520Update
-
-🌱 Projects I'm Working On:
-Project	Description	Tech Stack	Live Demo
-My Portfolio	Personal portfolio to showcase my work	Next.js, Tailwind CSS, TypeScript	Visit
-Weather App	Weather app built with React and Tailwind CSS	React, Tailwind CSS, OpenWeather API	GitHub
-Next.js Blog	Blog with Markdown support	Next.js, Markdown, Static Site Generation	GitHub
-📌 Pinned Repositories:
-https://github-readme-stats.vercel.app/api/pin/?username=arifprodev&repo=weather-app&theme=radical
-https://github-readme-stats.vercel.app/api/pin/?username=arifprodev&repo=nextjs-blog&theme=radical
-
-📚 Learning Resources:
-Resource	Description	Link
-TypeScript	Official TypeScript Documentation	Visit
-Next.js	Next.js Documentation	Visit
-Python	Python Official Documentation	Visit
-React	React Documentation	Visit
-MDN Web Docs	Web Development Resources	Visit
-FreeCodeCamp	Free Coding Courses	Visit
-📢 Let's Connect:
-<a href="https://arifprodev.vercel.app/" target="_blank">https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white</a>
-<a href="https://x.com/arifprodev" target="_blank">https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white</a>
-<a href="https://www.linkedin.com/in/arifprodev" target="_blank">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
-<a href="mailto:arifprodev@gmail.com" target="_blank">https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
-<a href="https://github.com/arifprodev" target="_blank">https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white</a>
-
-📞 Quick Links:
-Portfolio: arifprodev.vercel.app
-
-Twitter: @arifprodev
-
-LinkedIn: arifprodev
-
-Email: arifprodev@gmail.com
-
-GitHub: github.com/arifprodev
-
-📈 Weekly Development Breakdown:
-
-TypeScript   ████████████████████░░░░   80%
-Next.js      ████████████████░░░░░░░░   65%
-Python       ██████████░░░░░░░░░░░░░░   40%
-React        █████████████████████░░░   90%
-Tailwind CSS ████████████████████░░░░   85%
-MongoDB      ████████████░░░░░░░░░░░░   50%
-Express.js   █████████████░░░░░░░░░░░   60%
-🤝 Open for Collaboration:
-I'm always open to:
-
-🤝 Collaborating on interesting projects
-
-💡 Learning new technologies together
-
-🎯 Building real-world applications
-
-📚 Sharing knowledge and resources
-
-🎯 Goals for 2024:
-Learn React.js fundamentals
-
-Build 3+ projects with React
-
-Master TypeScript
-
-Build a full-stack Next.js application
-
-Learn Python basics
-
-Contribute to open source projects
-
-Learn Docker basics
-
 <div align="center">
-📊 Contribution Graph
-https://github-readme-activity-graph.vercel.app/graph?username=arifprodev&theme=radical&hide_border=true&area=true
 
-⚡ Fun Fact
-https://github-readme-stats.vercel.app/api/top-langs/?username=arifprodev&layout=donut&theme=radical&hide_border=true
+# 👋 Hello, I'm Arif Hossen
 
-</div>
-<div align="center">
-Thanks for visiting my GitHub profile! 🚀
+### Full-Stack Developer | TypeScript & Next.js Specialist
 
-⭐️ From Arif Hossen
-
-https://komarev.com/ghpvc/?username=arifprodev&color=blue&style=flat-square
+[![GitHub followers](https://img.shields.io/github/followers/arifprodev?label=Followers&style=social)](https://github.com/arifprodev)
+[![GitHub stars](https://img.shields.io/github/stars/arifprodev?label=Stars&style=social)](https://github.com/arifprodev)
 
 </div>
 
-Profile Views: https://komarev.com/ghpvc/?username=arifprodev
+---
+
+## 🚀 About Me
+
+I'm a passionate full-stack developer specializing in modern web technologies. I focus on building scalable, user-centric applications with clean code and best practices. Currently expanding my expertise in TypeScript, Next.js, and system architecture.
+
+- 🔭 **Currently working on:** Full-stack applications with Next.js and TypeScript
+- 🌱 **Learning:** Python, Advanced System Design, and Cloud Architecture
+- 💡 **Interests:** Open-source contribution, Web Performance, and Developer Experience
+- 📍 **Location:** Dhaka, Bangladesh
+- ⚡ **Fun fact:** I believe great code is like poetry—elegant and meaningful
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifprodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifprodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arifprodev&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifprodev&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **Portfolio Website** | Modern, responsive portfolio showcasing my work and skills | Next.js, TypeScript, Tailwind CSS | [Live](https://arifprodev.vercel.app) • [Code](https://github.com/arifprodev/portfolio) |
+| **Weather Dashboard** | Real-time weather application with location-based forecasts | React, OpenWeather API, CSS3 | [Live](https://weather.arifprodev.vercel.app) • [Code](https://github.com/arifprodev/weather-app) |
+| **Blog Platform** | Full-featured blog with CMS integration and MDX support | Next.js, Sanity CMS, MDX | [Live](https://blog.arifprodev.vercel.app) • [Code](https://github.com/arifprodev/nextjs-blog) |
+
+</div>
+
+---
+
+## 📈 Learning & Development Roadmap
+
+```mermaid
+graph LR
+    A[Frontend Mastery] --> B[Full-Stack Development]
+    B --> C[Advanced Architecture]
+    C --> D[Cloud & DevOps]
+    
+    A --> A1[React/Next.js ✓]
+    A --> A2[TypeScript ✓]
+    
+    B --> B1[Node.js/Express ✓]
+    B --> B2[Database Design 🔄]
+    
+    C --> C1[System Design 🔄]
+    C --> C2[Microservices 📝]
+    
+    D --> D1[AWS/Cloud 📝]
+    D --> D2[CI/CD Pipeline 📝]
+```
+
+**Legend:** ✓ Completed | 🔄 In Progress | 📝 Planned
+
+---
+
+## 💼 Professional Highlights
+
+- ✨ Built **10+ production-ready** web applications
+- 🎨 Proficient in creating **responsive and accessible** user interfaces
+- ⚡ Focused on **performance optimization** and best practices
+- 🤝 Active **open-source contributor** and community member
+- 📚 Continuous learner keeping up with **latest web technologies**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arifprodev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifprodev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arifprodev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arifprodev.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=arifprodev&color=blueviolet&style=for-the-badge)
+
+**⭐ Thanks for visiting! Feel free to explore my repositories and don't forget to star the ones you find interesting!**
+
+</div>
